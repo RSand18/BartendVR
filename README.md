@@ -8,6 +8,6 @@ By March 6th, we hope to achieve the following with our Bartending VR game:
 
 - Have full greybox of bar
 - Player can interact with mixer
-- Player can pick up and mix objects/drinks
+  - Player can pick up, combine objects, and shake mixer to make a drink
 - Player will earn money if correct
 - Day will end after a period of time

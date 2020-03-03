@@ -15,3 +15,8 @@ By March 6th, we hope to achieve the following with our Bartending VR game:
 
 Link to GDD:
 https://docs.google.com/document/d/1uavQTn4qvvfqb2GJ2irqWi3w1jl8lEY0Amh3FYFWP9w/edit?usp=sharing
+
+
+
+
+## Progress Updates

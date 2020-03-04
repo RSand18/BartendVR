@@ -9,6 +9,8 @@ public class DetectionManager : MonoBehaviour
         if (col.tag == "Orange")
         {
             ValueManager.value += 1;
+            Destroy(GameObject.FindWithTag("Orange"));
+            Destroy(GameObject.FindWithTag("MartiniGlass_Unmixed"));
         }
     }
 }

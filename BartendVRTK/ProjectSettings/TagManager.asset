@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MartiniGlass_Unmixed
+  - Orange
+  - MartiniGlass_Mixed
+  - Lemon
+  - BeerGlass_Mixed
+  - BeerGlass_Unmixed
   layers:
   - Default
   - TransparentFX

@@ -20,3 +20,4 @@ https://docs.google.com/document/d/1uavQTn4qvvfqb2GJ2irqWi3w1jl8lEY0Amh3FYFWP9w/
 
 
 ## Progress Updates
+https://github.com/RSand18/BartendVR/wiki

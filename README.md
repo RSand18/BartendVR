@@ -21,3 +21,9 @@ https://docs.google.com/document/d/1uavQTn4qvvfqb2GJ2irqWi3w1jl8lEY0Amh3FYFWP9w/
 
 ## Progress Updates
 https://github.com/RSand18/BartendVR/wiki
+
+## Playtesting Feedback (Internal Feedback)
+
+The number one most positive thing about our game based on internal testing was the freedom and ability to interacti with different object in the VR environment.
+
+The number one thing to add would be the rest of the core functionality of the recipe book, including the different combinations of the drinks and implementing the rest of our planned systems

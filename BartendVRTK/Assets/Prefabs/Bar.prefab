@@ -2259,6 +2259,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barroom
       objectReference: {fileID: 0}
+    - target: {fileID: 300044389143031027, guid: 183bbd9c95351da42944e321d3f31716,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 183bbd9c95351da42944e321d3f31716, type: 3}
 --- !u!4 &798921603032829522 stripped
